@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "title": "Lenovo IdeaPad Flex 5 11th Gen Intel Core i3",
+        "desc": [
+            "Processor: 11th Gen Intel Core i3-1115G4 | Speed: 3.0 GHz (Base) - 4.1 GHz (Max) | 2 Cores | 6MB Cache",
+            "OS: Pre-Loaded Windows 10 Home with Lifetime Validity",
+            "Pre-Installed: MS Office Home and Student 2019",
+            "Memory and Storage: 8GB RAM DDR4-3200 | 256 GB SSD",
+            "Display: 14 Full HD (1920x1080) | Brightness: 250 nits | 45% NTSC Colour Gamut | IPS Technology",
+            "Design: Touchscreen | 1.79 cm Thin and 1.5 kg Light | 4-sided Narrow Bezels | Backlit Keyboard | Fingerprint Reader",
+            "Battery Life: 7 Hours | 52.5 Wh Battery | Quick Charge (Up to 80% in 1 Hour)",
+            "Camera (Built in): HD 720p Camera with Fixed Focus | Privacy Shutter | Integrated Dual Array Microphone",
+            "Audio: 2 x 2W Stereo Speakers | HD Audio | Dolby Audio",
+            "Connectivity: WiFi 5 (11ac, 2x2) | Bluetooth 5.0",
+            "Ports: 2 USB 3.1 Gen 1, 1 USB 3.1 Type-C (support data transfer and Power Delivery), Headphone/Mic combo jack, HDMI 1.4b, 4-in-1 media reader (MMC, SD, SDHC, SDXC)"
+        ],
+        "price": 55999.00,
+        "image": "assets/images/laptop.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 2,
+        "title": "HP Pavilion x360 Touchscreen 2-in-1 FHD 14-inch (35.56 cms) Laptop",
+        "desc": [
+            "Camera & Microphone: HP TrueVision HD camera with integrated dual array digital microphone",
+            "Design & Battery: Touchscreen and Convertible Laptop | Laptop weight: 1.58 kg | Average battery life 7 hours, 3-cell, 41 Wh Li-ion Fast Charge Battery",
+            "Graphics: Intel UHD Integrated Graphics",
+            "Display: 35.56 cms FHD (1920 x 1080), touch-enabled, IPS, edge-to-edge glass, micro-edge, 250 nits, 45% NTSC | Without Inking Pen"
+        ],
+        "price": 75599.00,
+        "image": "assets/images/laptop2.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 3,
+        "title": "Samsung Galaxy M51 (Electric Blue, 8GB RAM, 128GB Storage)",
+        "desc": [
+            "Quad camera setup - 64MP (F1.8) main camera + 12MP (F2.2) ultra wide camera + 5MP (F2.4) depth camera + 5MP (F2.4) macro camera and 32MP (F2.2) front camera",
+            "16.95 cm (6.7-inch) sAMOLED Plus - Infinity-O display, FHD+ capacitive touchscreen with 1080 x 2400 pixels resolution",
+            "Contrast Ratio: 78960: 1",
+            "Memory, Storage & SIM: 8GB RAM, 128GB internal memory expandable up to 512GB | Dedicated Memory slot",
+            "Android v10.0 operating system with 2.2GHz+1.8GHz Qualcomm | SD730G octa core processor",
+            "7000mAH lithium-ion battery | 25W USB Type-C to C fast charger in the box",
+            "Fast face unlock and Side Fingerprint sensor | Dual SIM (nano+nano) with dual standby and dual VoLTE | 3.5 mm headphone jack"
+        ],
+        "price": 19990.00,
+        "image": "assets/images/phone1.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 4,
+        "title": "OnePlus Nord",
+        "desc": [
+            "48MP+8MP+5MP+2MP quad rear camera with 1080P Video at 30/60 fps, 4k 30fps | 32MP+8MP front dual camera with 4K video capture at 30/60 fps and 1080 video capture at 30/60 fps",
+            "6.44-inch 90Hz fluid Amoled display with 2400 x 1080 pixels resolution | 408ppi",
+            "Memory, Storage & SIM: 12GB RAM | 256GB internal memory | Dual SIM (nano+nano) | OnePlus Nord currently support dual 4G SIM Cards or a Single 5G SIM. 5G+4G support will be available via OTA update at a future date",
+            "OxygenOS based on Android 10 operating system with 2.4GHz Kryo 475 Prime + 2.2GHz Kryo 475 Gold + 6x1.8GHz Kryo 475 Silver Qualcomm Snapdragon 765G 5G mobile platform octa core processor, Adreno 620 GPU",
+            "4115mAH lithium-ion battery | In-Display fingerprint sensor"
+        ],
+        "price": 45990.00,
+        "image": "assets/images/phone2.jpg",
+        "ratings": 4
+    },
+    {
+        "id": 5,
+        "title": "BOAT Storm SMART WATCHES",
+        "desc": [
+            "Bluetooth Version: 4.2",
+            "Operating Temperature: -20°C - 45°C",
+            "Bluetooth Range: 10M",
+            "Battery Capacity: 210mAh",
+            "Working Time: Up to 8-10 Days",
+            "Charging Time: 2.5 Hours",
+            "Charging Type: USB Direct Charge",
+            "Standby Time: 20-30 Days",
+            "Activity Tracking: 9 Activites",
+            "Call Alert: Yes",
+            "Music Control: Yes",
+            "Guided Meditative Breathing: Yes",
+            "Country Of Origin: China",
+            "Waterproof: 5 ATM"
+        ],
+        "price": 2450.00,
+        "image": "assets/images/smartwatch.png",
+        "ratings": 4
+    },
+    {
+        "id": 6,
+        "title": "BOAT Airdopes 511 V2",
+        "desc": [
+            "Headphone Type: TWS",
+            "IPX Rating: IPX 4",
+            "Bluetooth Profiles: HSP, HFP, A2DP and AVRCP",
+            "Driver Size: 6mm",
+            "HD Sound: Yes",
+            "Frequency: 20Hz-20KHz",
+            "Battery Capacity (mAh): 60mAh X 2 + 500 mAh Charging Case",
+            "Playback Time: 6 Hours per bud, upto 24 hours with case",
+            "Charging Time: 2 hour",
+            "Standby Time: 35 Hours",
+            "Bluetooth Version: V5.0",
+            "Compatibility: All Bluetooth Devices",
+            "Bluetooth Range: 10M",
+            "Country Of Origin: China"
+        ],
+        "price": 4450.00,
+        "image": "assets/images/earbuds.png",
+        "ratings": 4
+    }
+]

@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ecommerce-nagp-assignment": {
+      "hosting": {
+        "online-shopping": [
+          "ecommerce-nagp-assignment"
+        ]
+      }
+    }
+  }
+}
